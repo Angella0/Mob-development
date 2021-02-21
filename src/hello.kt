@@ -1,5 +1,5 @@
 fun main(){
-    var studentname = "Angella"
+    val studentname = "Angella"
     println(studentname)
     var phonenumber = "0752853816"
     println(phonenumber)
@@ -7,7 +7,7 @@ fun main(){
     println(age)
     var weight = "54kgs"
     println(weight)
-    var kenyancitizen: Boolean=false
+    val kenyancitizen: Boolean=false
     println(kenyancitizen)
 
 
